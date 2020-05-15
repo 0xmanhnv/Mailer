@@ -21,5 +21,8 @@ env\Scripts\activate
 ```
 python app.py
 ```
+### Changes to be made in Email Account Settings
+The account settings should be such that it should allow less secure apps to login to your mail as well, in order to be able to send emails.
 ## Blogs
-- 
+- [Dev Blog Post](https://dev.to/lordofdexterity/til-mailing-bot-with-python-1a8l)
+- [Hashnode Blog Post](https://nikkigupta.hashnode.dev/til-mailing-bot-with-python-cka88owgg01wfx9s1y4e2gkmc)
